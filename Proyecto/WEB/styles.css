@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "Mystery Quest";
+    src: url("https://fonts.googleapis.com/css2?family=Orbitron&display=swap");
+}
+
+.cabeza {
+    font-family: 'Orbitron', sans-serif;
+    background-color: white;
+    margin: 0px;
+    border: 0px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.datos {
+    margin: 0px;
+    border: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.data>.escuela,
+.data>.materia,
+.data>.nombres {
+    padding: 5vh;
+    text-align: center;
+}
+
+.data {
+    justify-content: center;
+    align-items: center;
+}
+
+.final {
+    padding: 5vh;
+}
+
+.pie {
+    background-color: #FF5733;
+    color: white;
+}
