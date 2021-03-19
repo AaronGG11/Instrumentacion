@@ -13,7 +13,7 @@ used, JavaScript, Bootstrap, google charts and a web browser.
 
 
 ### Demo
-[![VIDEO IN ONEDRIVE]](https://correoipn-my.sharepoint.com/:v:/g/personal/agarciag1714_alumno_ipn_mx/Ec4lFkxiThpBrbTn5HCBmyEBmqrttz2asvDPm9J22Q7E3Q?e=M5O0RWE)
+[VIDEO EN ONEDRIVE](https://correoipn-my.sharepoint.com/:v:/g/personal/agarciag1714_alumno_ipn_mx/Ec4lFkxiThpBrbTn5HCBmyEBmqrttz2asvDPm9J22Q7E3Q?e=M5O0RWE)
 
 
 
